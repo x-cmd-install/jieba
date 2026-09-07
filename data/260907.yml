@@ -5,13 +5,13 @@ about:
   head: 67fa2e3
   archived: false
   latestVersion: "v0.42.1"
-  collectedAt: 2026-09-07T05:26:24Z
+  collectedAt: 2026-09-07T19:03:46Z
 timeline:
   created: 2012-09-29
   lastCommit: 2020-02-15
   lastRelease: 2020-01-20
 popularity:
-  star: 35144
+  star: 35145
   watcher: 1262
   fork: 6683
   release: 9
@@ -80,7 +80,7 @@ total:
   commit: 523
 ---
 path: /home/runner/.x-repo/github.com/fxsjy/jieba
-collectedAt: 2026-09-07T05:26:32Z
+collectedAt: 2026-09-07T19:03:50Z
 loc:
   Prolog:
     code: 723708
@@ -189,7 +189,7 @@ checks:
       - 'Warn: 0 commits out of 16 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:26:33+00:00
+  collectedAt: 2026-09-07T19:03:52+00:00
   platform:
     darwin/arm64:
       name:  null
