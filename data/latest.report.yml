@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.42.1"
   latestRelease: "v0.42.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:29:47Z
+  collectedAt: 2026-09-11T19:40:12Z
 timeline:
   created: 2012-09-29
   lastCommit: 2020-02-15
@@ -84,7 +84,7 @@ total:
   commit: 523
 ---
 path: /home/runner/.x-repo/github.com/fxsjy/jieba
-collectedAt: 2026-09-11T05:29:51Z
+collectedAt: 2026-09-11T19:40:18Z
 loc:
   Prolog:
     code: 723708
