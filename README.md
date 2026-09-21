@@ -4,7 +4,7 @@
 
 结巴中文分词
 
-![jieba](https://repo.x-cmd.io/jieba.svg)
+[![x-cmd/install — jieba Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jieba.svg)](https://x-cmd.com/install/jieba)
 
 ## Install
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 35,155 · **Forks**: 6,680 · **Open issues**: 877 · **Contributors**: 40
+- **Stars**: 35,164 · **Forks**: 6,679 · **Open issues**: 877 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 2 | 0 | 9 | 0 |
-| last720d | 2024-09-28 | 0 | 0 | 2 | 0 | 25 | 0 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-09-26 | 0 | 0 | 2 | 0 | 8 | 0 |
+| last720d | 2024-10-01 | 0 | 0 | 2 | 0 | 25 | 0 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for jieba lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:12:50Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:57:12Z._
