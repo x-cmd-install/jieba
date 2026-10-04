@@ -192,4 +192,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 16 are checked with a SAST tool'
 ---
-{"id":22976810,"author":{"login":"fxsjy","id":167837,"node_id":"MDQ6VXNlcjE2NzgzNw==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"MDc6UmVsZWFzZTIyOTc2ODEw","tag_name":"v0.42.1","target_commitish":"master","name":"v0.42.1 Released","draft":false,"immutable":false,"prerelease":false,"created_at":"2020-01-20T14:22:34Z","updated_at":"2020-01-20T14:23:50Z","published_at":"2020-01-20T14:23:50Z","assets":[],"body":" \u4fee\u590dsetup.py\u5728python2.7\u7248\u672c\u65e0\u6cd5\u5de5\u4f5c\u7684\u95ee\u9898 ","reactions":{"total_count":8,"+1":8,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
