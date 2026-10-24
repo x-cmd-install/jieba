@@ -1,0 +1,91 @@
+- repo: openeuler_22_03_lts_sp1
+  srcname: jieba
+  binnames:
+    - python3-jieba
+  visiblename: jieba
+  version: 0.42.1
+  origversion: 0.42.1-1.oe2203sp1
+  status: unique
+  summary: Chinese word segmentation software
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: openeuler_22_03_lts_sp3
+  srcname: jieba
+  binnames:
+    - python3-jieba
+  visiblename: jieba
+  version: 0.42.1
+  origversion: 0.42.1-1.oe2203sp3
+  status: unique
+  summary: Chinese word segmentation software
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: openeuler_22_03_lts_sp4
+  srcname: jieba
+  binnames:
+    - python3-jieba
+  visiblename: jieba
+  version: 0.42.1
+  origversion: 0.42.1-1.oe2203sp4
+  status: unique
+  summary: Chinese word segmentation software
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: openeuler_24_03_lts
+  srcname: jieba
+  binnames:
+    - python3-jieba
+  visiblename: jieba
+  version: 0.42.1
+  origversion: 0.42.1-1.oe2403
+  status: unique
+  summary: Chinese word segmentation software
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: openeuler_24_03_lts_sp1
+  srcname: jieba
+  binnames:
+    - python3-jieba
+  visiblename: jieba
+  version: 0.42.1
+  origversion: 0.42.1-1.oe2403sp1
+  status: unique
+  summary: Chinese word segmentation software
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: openeuler_24_09
+  srcname: jieba
+  binnames:
+    - python3-jieba
+  visiblename: jieba
+  version: 0.42.1
+  origversion: 0.42.1-1.oe2409
+  status: unique
+  summary: Chinese word segmentation software
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: openeuler_25_03
+  srcname: jieba
+  binnames:
+    - python3-jieba
+  visiblename: jieba
+  version: 0.42.1
+  origversion: 0.42.1-1.oe2503
+  status: unique
+  summary: Chinese word segmentation software
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
