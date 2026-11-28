@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.42.1"
   latestRelease: "v0.42.1"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:59:16Z
+  collectedAt: 2026-11-28T08:36:56Z
 timeline:
   created: 2012-09-29
   lastCommit: 2020-02-15
@@ -15,76 +15,76 @@ timeline:
   lastRelease: 2020-01-20
   lastPrerelease: 
 popularity:
-  star: 35258
+  star: 35260
   watcher: 1250
   fork: 6669
   release: 9
   contributor: 40
   pullRequest: 174
-  issue: 879
+  issue: 880
 language:
   Python: 7349705
   OpenEdge ABL: 6770809
 totalBytes: 14120514
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 1
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 4
     closedIssue: 0
-    openIssue: 3
+    openIssue: 4
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 4
     closedIssue: 0
-    openIssue: 3
+    openIssue: 4
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
     openPR: 4
     closedIssue: 0
-    openIssue: 3
+    openIssue: 4
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 0
     openPR: 4
     closedIssue: 0
-    openIssue: 10
+    openIssue: 11
     commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 0
     openPR: 6
     closedIssue: 0
-    openIssue: 25
+    openIssue: 26
     commit: 0
 total:
   release: 9
   mergedPR: 96
   openPR: 58
   closedIssue: 231
-  openIssue: 648
+  openIssue: 649
   commit: 523
 ---
 path: /home/runner/.x-repo/github.com/fxsjy/jieba
-collectedAt: 2026-11-27T08:59:21Z
+collectedAt: 2026-11-28T08:37:00Z
 loc:
   Prolog:
     code: 723708
